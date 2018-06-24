@@ -20,7 +20,7 @@ def get_peers():
     requests.post(add_node_address,
                   json=nodelist,
                   headers={'Content-type': 'application/json'})
-get_peers()
+#get_peers()
 
 def fetch_posts():
     """

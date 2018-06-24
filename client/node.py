@@ -1,7 +1,7 @@
 from hashlib import sha256
 import json
 import time
-
+import plagiarism_checker as pc
 from flask import Flask, request
 import requests
 
@@ -70,6 +70,7 @@ class Blockchain:
         return computed_hash_value
 
     def add_new_transaction(self, transaction):
+        transaction = pc.checkPlagiarism(blockchain.chain, transaction)
         self.unconfirmed_transactions.append(transaction)
 
     @classmethod

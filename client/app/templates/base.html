@@ -1,6 +1,15 @@
 <html>
   <head>
     <title>{{ title }}</title>
+    <script type="text/javascript">
+      function focusOnPost(post_id){
+        var elem = document.getElementById(post_id);
+        location.href = "#";
+        location.href = "#" + post_id;
+        elem.style.backgroundColor = 'green';
+        setTimeout(function(){ elem.style.backgroundColor = 'white';}, 2000);
+      }
+    </script>
   </head>
   <body>
     <div><a href="/index">Home</a></div>

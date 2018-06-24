@@ -27,8 +27,8 @@ def getMostSimilarWork(model, index, dictionary, testDoc):
 	else:
 		return mos
 
-def processCorpus(alldocuments, testdocument):
-	dictionary = prepareDictionary(alldocuments+[testdocument])
+def processCorpus(alldocuments):
+	dictionary = prepareDictionary(alldocuments)
 	corpus = [dictionary.doc2bow(nltk.word_tokenize(document.lower())) for document in alldocuments]
 	corpora.MmCorpus.serialize('Corpus.mm', corpus)
 	model = models.ldamodel.LdaModel(corpus)
@@ -37,7 +37,7 @@ def processCorpus(alldocuments, testdocument):
 	return (model, index, dictionary)
 
 def getPlagiarism(alldocuments, testDocument):
-	model, index, dictionary = processCorpus(alldocuments, testDocument)
+	model, index, dictionary = processCorpus(alldocuments)
 	sim = getMostSimilarWork(model, index, dictionary, testDocument.lower())
 	if (sim[1]>0.9):
 		return sim[0]
