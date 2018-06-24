@@ -23,7 +23,7 @@ class Block:
 
 
 class Blockchain:
-    # difficulty of our PoW algorithm
+    # Difficulty level of the Proof of Work Algorithm
     difficulty = 2
 
     def __init__(self):
@@ -33,9 +33,7 @@ class Blockchain:
 
     def create_genesis_block(self):
         """
-        A function to generate genesis block and appends it to
-        the chain. The block has index 0, previous_hash as 0, and
-        a valid hash.
+        A genesis block is the first block in a blockchain
         """
         genesis_block = Block(0, [], time.time(), "0")
         genesis_block.hash = genesis_block.compute_hash()
@@ -142,11 +140,11 @@ peers = set()
 @app.route('/new_transaction', methods=['POST'])
 def new_transaction():
     tx_data = request.get_json()
-    required_fields = ["author", "content"]
+    required_fields = ["author", "content", "post_id"]
 
     for field in required_fields:
         if not tx_data.get(field):
-            return "Invlaid transaction data", 404
+            return "Invalid transaction data", 404
 
     tx_data["timestamp"] = time.time()
 
@@ -249,9 +247,11 @@ def announce_new_block(block):
     Other blocks can simply verify the proof of work and add it to their
     respective chains.
     """
-    for peer in peers:
-        url = "http://{}/add_block".format(peer)
-        requests.post(url, data=json.dumps(block.__dict__, sort_keys=True))
-
+    try:
+        for peer in peers:
+            url = "http://{}/add_block".format(peer)
+            requests.post(url, data=json.dumps(block.__dict__, sort_keys=True))
+    except Exception as e:
+        a = 1
 
 app.run(debug=True, port=8000)
