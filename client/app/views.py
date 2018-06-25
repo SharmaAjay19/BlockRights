@@ -47,8 +47,7 @@ def fetch_posts():
 def index():
     fetch_posts()
     return render_template('index.html',
-                           title='BlockRights: Decentralized '
-                                 'content sharing',
+                           title='BlockRights: Patent on Blocks',
                            posts=posts,
                            node_address=CONNECTED_NODE_ADDRESS,
                            readable_time=timestamp_to_string)
