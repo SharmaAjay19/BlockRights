@@ -1,0 +1,293 @@
+Samples
+
+Title: Barometer
+Inventors: Karl Marterer
+Description: BACKGROUND OF THE INVENTION
+1. Field of the Invention
+
+The invention relates to a barometer.
+
+2. Description of the Prior Art
+
+Barometers with vacuum housings, known in numerous different embodiments, are designated aneroid barometers. The vacuum housing of these barometers is generally made solid with the instrument on one side, so that the metal diaphragm on the other side of the vacuum housing makes a corresponding movement in case of a change in air pressure. This translational movement or deflection is transmitted by a transmission mechanism to a pointer on a pointer shaft whose position can be read on a dial. The transmission mechanism must magnify the small deflections of the vacuum for reading and for this purpose has a great transformation ratio. The transmission mechanisms of known barometers generally comprise several levers which are made as one-armed, two-armed levers or angle levers, and elements made as chains, wires or tooth segments which finally transmit the movements from the lever mechanism to the pointer shaft. These transmission mechanims therefore consist of comparatively many parts, so that their production and assembly cost is high.
+
+Further, a barometer is known (DE-AS No. 26 16 315), which already exhibits a simplified transmission mechanism. With this known barometer, the helical element is made like a helical spring. It is placed coaxially with the output shaft on the vacuum box and participates in its deflection. The helical element works with the output shaft through a pin that projects radially from the output shaft between the windings of the helical element. When the helical element is moved during the translational movement of the vacuum housing, it forces the output shaft, which is axially integral with the instrument, to perform a pivoting motion which is also imparted to the pointer shaft which in turn is unitary with the output shaft. Although the transmission mechanism of this known barometer offers lower production cost in comparison with the transmission mechanisms described in the introduction, a further reduction of production and assembly cost is desirable. Moreover, this known barometer has the drawback that its transmission mechanism functions in a comparatively inaccurate manner.
+
+SUMMARY OF THE INVENTION
+The object of this invention is to make a barometer of this kind in such a way that it exhibits a design of the transmission mechanism that is as simple as possible.
+
+This object is achieved according to the invention in that the helical element is unitary with the instrument, the output shaft, besides being able to pivot, is axially displaceable and the output shaft, with its end turned toward the vacuum box, rests on the vacuum housing, and is held in this position by the return spring.
+
+In the barometer according to the invention, the only movable element of the transmission mechanism is the output shaft. Since, on the one hand, it directly follows the translational movement of the vacuum housing and, on the other hand, also performs pivoting, it is not necessary, in the barometer according to the invention, to support the output shaft against axial displacement and connect the helical element with the vacuum housing fixedly in pivoting but which is axially displaceable. This requirement is specified in the barometer according to DE-AS No. 26 16 315. In contrast, the barometer according to the invention is considerably simplified.
+
+In a preferred embodiment, it can be provided that the output shaft and the pointer shaft are made as one piece, so that in practice the pointer shaft rests with the end turned toward the vacuum housing and the transmission mechanism requres no additional pivoting parts.
+
+BRIEF DESCRIPTION OF THE DRAWINGS
+Various other objects, features and attendant advantages of the present invention will be more fully appreciated as the same becomes better understood from the following detailed description when considered in connection with the accompanying drawings in which like reference characters designate like or corresponding parts throughout the several views and wherein:
+
+FIG. 1 is a side view of an embodiment of the barometer according to the invention; and
+
+FIG. 2 is an enlarged representation of detail A of FIG. 1.
+
+DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENT
+FIG. 1 shows a barometer in a side view in which, however, the casing, glass cover and dial have been omitted for presentation and explanation.
+
+The barometer represented comprises an essentially round bedplate or base plate 2, which supports a vacuum housing 4. Vacuum housing 4, in FIG. 1, consists of an upper metal diaphragm 6 and a lower metal diaphragm 8, which are hermetically joined at their edge, and is evacuated to a high degree. Both metal diaphragms 6 and 8 have such a prestress that vacuum housing 4 does not need any support spring, i.e., it is stabilized. A threaded pin 10 is fastened in the middle of lower metal diaphragm 8; is screwed into a tapped hole (not numbered) in base plate 2 and exhibits a slot at its free end for application of a suitable tool, for example, a screwdriver. By turning threaded pin 10 in its corresponding tapped hole, the position of vacuum housing 4 can be adjusted in relation to base plate 2.
+
+A middle plate 12 and an upper plate 14 run above and parallel to base plate 2 and are solidly connected to base plate 2 by columns 16. Vacuum housing 4 is centered in relation to base plate 2. On the side of vacuum housing 4 turned away from base plate 2 is also centered a transmission mechanism 18, which serves to transmit movement or deflection of the vacuum housing, in the form of pivoting pointer 20, which is placed above plate 14 (FIG. 1). The transmission mechanism comprises an output shaft 22, which is placed perpendicular to vacuum box 4 and is centered in relation to it. Output shaft 22 is made unitary with a coaxial pointer shaft 24, which is pivotably mounted on upper plate 14 via a bearing 26, which allows displacement of pointer shaft 24 in the axial direction in relation to plate 14. Pointer shaft 24 projects above plate 14 with its upper end shown in FIG. 1. Pointer 20 is placed on this upper end of pointer shaft 24 and made solid with it in pivoting movement. To pointer shaft 24 is applied a helical return spring 28 which is placed essentially parallel between upper plate 14 and middle plate 12. Return spring 28 is fastened by one of its ends to pointer shaft 24 and is fixedly attached with the instrument by a lug 30 to a middle plate 12 by its other end. Return spring 28 is under such prestress that it seeks to turn pointer shaft 24 counterclockwise, looking at the barometer shown in the side view in FIG. 1 from above.
+
+As FIG. 2 shows, output shaft 22 exhibits on its lower end and exterior thread in the form of a trapezoidal thread which engages with a corresponding interior thread in a helical element 32 that is fixed with the barometer. Helical element 32, for example, as is the case in the embodiment shown, can be fixed to middle plate 12. In FIG. 2, output shaft 22 exhibits at its lower end a tapered point 34 by which output shaft 22 rests directly on the upper metal diaphragm 6 of vacuum housing 4. Because of the prestress of return spring 28, point 34 is permanently held in this position.
+
+If vacuum housing 4 expands slightly because of a drop in atmospheric pressure, upper metal diaphragm 6 is deflected slightly upward from the position shown in FIG. 2. In this process, diaphragm 6 pushes upward against point 34, so that output shaft 22, in FIG. 2, is shoved slightly upward, and this translational movement, because of the engagement between the interior and exterior threads on output shaft 22 or helical element 32, is necessarily accompanied by pivoting of output shaft 22. Because output shaft 22 and pointer shaft 24 are unitary, this pivoting is directly transmitted by pointer 20. If the upper metal diaphragm 6 moves downward (FIG. 2) because of a change in atmospheric pressure, point 34 of output shaft 22 follows this movement, since return spring 28 exerts a corresponding torsional moment on output shaft 22 and the resulting pivoting, because of the engagement between the interior and exterior threads, is necessarily accompanied by axial displacement of output shaft 22.
+
+As appears from the above description, the combination of the output shaft 22 and the pointer shaft 24 is radially supported to two places, i.e., by a bearing 26 and a helical element 32. Axially, this unit is supported only on helical element 32, so that, because of the feature of the engagement between helical element 32 and output shaft 22, both axial displacement and, at the same time, pivoting are possible. The design of the exterior thread of output shaft 22 and the interior thread of helical element 32 are so selected that relative movement with the least possible friction is possible and the desired deflection of pointer 20 corresponds to the resulting deflection of upper metal diaphgram 6.
+
+In the barometer described above, output shaft 22 and pointer shaft 24 are not only able to pivot but are also axially displaceable, which makes an extremely simple design for the transmission mechanism 18 possible. The axial displacement of pointer shaft 24 and therefore the displacement of pointer 20 relative to plate 14 and relative also to the dial (not shown), practically does not impair readibility.
+
+Obviously, numerous modifications and variations of the present invention are possible in light of the above teachings. It is thereofore to be understood that within the scope of the appended claims, the invention may be practiced otherwise than as specifically described herein.
+
+
+
+
+
+
+Title: Accelerometer
+Inventors: Earl D Jacobs
+Description: An accelerometer is provided for detecting acceleration which employs a flapper ring clamped at raised points between upper and lower portions of a magnet structure. The flapper is suspended by a bifilar hinge on the ring between two permanent magnets. Coils are mounted on opposite sides of the flapper, each encircling one of the permanent magnets and separated therefrom by an air gap. Each side of the flapper has a metallic coating thereby forming a capacitor with an inner face of the magnet structure on each side of the flapper. As the accelerometer is accelerated, the flapper is displaced relative to the magnet structure thus increasing the capacitance of one capacitor and decreasing the capacitance of the other capacitor. Electrical signals proportional to the change in the capacitances, and therefore proportional to the acceleration, are fed through a servo loop to the coil which set up a magnetic field which interacts with the magnetic fields of the permanent magnets to oppose the displacement of the flapper.
+
+My invention relates to improvements in ac-' 5 celerometers and more particularly to improvements in accelerometers of the Eyestone-Wilcox type. Accelerometers of this type were disclosed by Eyestone in US. Pat. No. 2,995,935 and by Wilcox in US. Pat. No. 3,339,419.
+
+PRIOR ART Accelerometers of the type in question employ a magnet unitthat is secured to a case or housing and 1 also employ a flapper that is flexurally mounted relative to the case. The case, and hence the magnet unit, is normally rigidly attached to an object whose acceleration is to be detected or measured. In the usual practice, the magnet unit comprises two magnet structures, one on each side of the flapper and the flapper is composed of fused quartz. Coils are mounted on the flapper in positions where they encircle a pair of permanent magnets which form part of the magnet unit and which .are mounted on opposite sides of the flapper. The coils and the flapper together constitute a proof mass. As the object is accelerated, either in a single direction or in an oscillatory manner, the quartz flapper tends to remain stationary in space, thus moving relative to the magnet unit.
+
+Capacitor plates in the form of metallic coatings are located on opposite faces of the flapper. These coatings are located opposite metallic surfaces of the magnet unit. These surfaces act as capacitor plates. As a result, two capacitors are formed one on each side of the flapper. As the magnet unit moves relative to the proofmass, the capacitance of one of the capacitors increases and the capacitance of the other capacitor decreases. These capacitors are employed in connection with a balanced circuit to produce a carrier signal that is modulated in accordance with the magnitude of the acceleration. Preferably the carrier is suppressed.
+
+The modulated electrical signal is demodulated, as by means of a ring demodulator, to produce a DC current proportional to the amplitude of modulation and hence proportional to the acceleration. This DC current is amplified and then fed to the coils of the accelerometer to produce a magnetic field which interacts with the field provided by the magnet structure to produce a force which acts on the flapper in such a direction as to counteract the tendency of the capacitances to change in value. This sort of action is sometimes known as feedback or servo. The magnitude of the DC current is proportional to the acceleration, over a wide frequency range extending from 0 cps to a much higher frequency depending on the characteristics of the accelerometer and the circuit in which it is connected.
+
+GENERAL DESCRIPTION OF THE INVENTION My invention is particularly related to improvements in the structure of the proof-mass and in the arrangement for mounting the proof-mass relative to the magnet structure and case. As a result of the improvements that I have made, an accelerometer of the Eyestone- Wilcox type is provided which is less subject to drift,
+
+a flapper connected by a flexure to a mounting ring composed of the same material namely, fused quartz wherein the fiexure has a thickness which is reduced compared with the efiective thickness of the mounting ring.
+
+2. Another feature resides in the employment of three or more posts or pillars on each side of the mounting ring to provide a three-point suspension on each side of the mounting ring.
+
+3. Another feature resides in the employment of a malleable material, such as gold, on the faces of the posts to minimize effects of irregularities of the metal faces against which the posts are pressed in mounting. I
+
+4. Another feature resides in the employment of a flexure which is apertured to provide spaced flexure arms to provide mechanical stability and to minimize effects of microscopic warpage.
+
+5. According to still another feature the flapper, the
+
+mounting ring, and the posts form a unitary structure, that is composed of fused quartz.
+
+These and other features of my invention will be described in more detail hereinafter with reference to one embodiment of the invention taken in conjunction with the accompanying drawings wherein:
+
+FIG. 1 is a partly sectional side elevational view of the accelerometer;
+
+FIG. 2 is an exploded view showing parts of the accelerometer unit;
+
+FIG. 3 is a cross-sectional view of the accelerometer unit; I
+
+FIG. 4 is an'explanatory diagram of electrical aspects of the accelerometer unit;
+
+FIG. 5 is a schematic drawing showing a system utilizing the accelerometer of this invention; and
+
+FIG. 6 is a horizontal sectional view as taken on the line 6-6 of FIG. 3.
+
+DETAILED DESCRIPTION OF INVENTION The accelerometer of this invention comprises an accelerometer unit 10 rigidly supported within a case or housing 20 as indicated in FIG. 1. As illustrated in FIGS. 2 and 3 the accelerometer unit 10 is provided with a magnet structure that comprises two parts, an upper magnet structure 30a, a lower magnetic structure 30b, and is also provided with an intermediate proof-mass structure 100. The magnet structures 30a and 30b are sometimes referred to as stator elements since they are usually firmly secured to the object undergoing test and the flapper is sometimes referred to as a rotor since it rotates (in an oscillatory manner) about the hinge axis of a flexure.
+
+Except as specifically described hereinafter the three structures mentioned above are of circular cylindrical configuration. The axes of the three structures coincide with the central or principal axis X-X which is parallel to the direction of the acceleration to be detected.
+
+The two magnetic structures are formed by end plates 32a and 32b, two permanent magnets 36a and 36b, and pole pieces 34a and 34b. Cylindrical body members 33a and 33b complete the magnetic circuits between the end plates 32a and 32b and the flux return rings or pole pieces 34a and 34b respectively. The body members 33a and. 33b and the pole pieces 34a and 34b respectively are formed from one piece of soft magnetic iron, the pole pieces being in the shape of inwardly directed flanges. Each of the pole pieces 34a and 34b has a central circular aperture that encircles the north-pole end of the corresponding permanent magnet36a and 36b, forming a narrow annular gap 35a and 35b 'therebetween; As a result, magnetic flux extends radially across each of the gaps as indicated by the arrows A. Circular discs 37a and 37b consisting of magnetically soft iron are cemented or otherwise secured to the facing ends of the, magnets 36a and 36b to provide temperature stability to the strength of the magnetic field A. The temperature coefficient of magnetic permeability of these discs and the dimensions of these discs are so proportioned relative to those of the magneticstructure as to stabilize the strength of the magnetic field so'that the magnitude of the voltages induced in thecoils 160a and 160k when they are moved relative to the magnet structures are independent of temperature. The end plates 32a and 32b and the pole pieces 34a and 34b are composed of a magnetic material having a high permeability and low coefficient of thermal expansion, such as lnvar. lnpractice, the lnvar is heat treated to establish its coefficient of thermal expansion at about one part per million per F thus providing a close thermal match with the quartz.
+
+The proof-mass assembly 100 comprises a flapper or reed 110 hingedly supported by a flexure 130 that extends radially inwardly from a support ring 140. Three posts 142a, spaced about 120 apart on the ring 140, project upwardly from the upper surface 140a of the support ring 140. Likewise, three posts 142b, spaced about 120 apart on the ring 140, project downwardly from the lower surface 140b of the support ring 140. The upper posts 142a. are disposed axially opposite the lower posts 142b. Posts 142a and 142b are located at a position along the axis Z-Z of symmetry of the flexure 130 and the flapper 110 diametrically opposite the center of the flexure 130. The remaining posts are located in opposite pairs about 120 from the position of posts 142a and 142k. The spacer posts are thus distributed about the support ring so that the support ring is held rigidly in place and does not flex significantly during acceleration. Such rigidity may be increased if desired by locating one of the posts at the root 135 of the flexure. The posts have cross-sections. in a plane parallel to the neutral plane of the flapper structure which are very small compared with the area of the support ring. The angles subtended by the posts at the center of the flapper structure are very small compared with 360, being about to each and their annular width is less than their angular length.
+
+The flapper 110 is of circular configuration except for parts adjacent the hinge or flexure structure 130 and is spaced from the circular support ring l40'by a narrow annularor arcuate gap 112. The flapper 110is of the same thickness as the main body of the ring 140. When the ring 140 is in a vertical plane the flapper 110 hangs pendulously downwardly. In this position the surfaces a and 1l0b of the flapper 110 are coplanar with the upper and lower surfaces a and 140!) respectively of the main body of the ring 140. The posts 142a and 142b protrude outwardly from the planes of these surfaces. As indicated in FIG. 3, the proof-mass structure 100 is symmetrical about a mid-plane P-P that is perpendicular to the central axis XX when the flapper 1 10 is in its central or neutral position.
+
+The proof-mass structure 100 is mounted between the opposed faces of the upper and lower magnet structures 30a and 30b with the posts 142a engaging the outer portion of the lower surface 40a .of the upper magnet structure 30a and with the posts 1421; engagingthe outer portion of the upper surface 40b of the lower magnet structure 3017. The distance between the surfaces 40a and 40b equals the effective thickness of the mounting ring. The surfaces 40a and 4012 are flat. Thus, the posts 142a and .142b establish narrow gapsbetween the uppersurface 1 10a of the flapper and the lower surface 40a of the upper magnet structure 30a. Likewise, the posts 142b establish a narrow gap between the lower surface 11% of the flapper and the upper surface 40b of the lower magnet structure 30b.
+
+The hinge or flexure 130 is apertured, forming a bifilar flexure. This flexure comprises a pair of flexure arms 131 and 132 spaced apart by a rectangular opening or window 134, the arms being on opposite sides of the axis Z--Z of symmetry. By employing a multiple arm flexure, twisting of the flapper aboutthe axis Z-Z of the flexure and other warpage that might occur in the flexure is reduced.
+
+An arcuate electrode 1440 is located on the upper surface 110a of the flapper opposite the lowermost surface 40a of the magnet structure. Similarly, an arcuate electrode 144b is located on the lower surface 11% of the flapper opposite the uppermost surface 40b of the magnet structure. These electrodes and surfaces act as capacitor plates. As indicated in FIG. 4, the upper electrode 144a together with the lower surface 40a of the upper magnet structure, forms a variable capacitor CA and lower electrode 144b together with the upper surface 40b of the lower magnet structure forms a variable capacitor CB. The various parts are so mounted and proportioned that the two capacitors have equal values.
+
+of capacitance when the flapper is in its neutral position.
+
+Two torquer coils a and 16% are securely fastened to the upper and lower surfaces 110a and 110b of the flapper respectively. The two coils are in the form of windings 162a and 162b wound on bobbins 164a and 164b that are cemented to the upper and lower surfaces 110a and 1l0b of the flapper 110. The
+
+two coils 160a and 160k are concentrically located within the gaps 35a and 35b of the upper and lower magnet structures 30a and 30b.
+
+Four electrical terminals 171, 172, 173 and 174 are provided on the support ring 140. Two of these terminals 171 and 172 are connected by conductor strips 181 and 182 to one end of each of the respective coils 160a and 16%. The remaining ends of these coils are connected together by means of a lead 180 that passes through holes a and 165b and 141 in the centers of the bobbins 164a and 164b' and the center of the flapper 110.
+
+The other terminals 173 and 174 are connected by conductor strips 183 and 184 to the upper and lower capacitor plates 144a and l44b that are on the upper and lower surfaces 110a and 11% respectively of the flapper. As will be seen hereinafter, the upper and lower magnet structures 30a and 30b are electrically connected together forming a common capacitor terminal 30 (See FIG. 4). It is to be noted that the conductor strips 181, 182, 183, and 184 extend from the support ring 140 across the flexure arms 131 and 132 to the flapper 110.
+
+The two coil terminals 171 and 172 are electrically connnected by means of flexible leads 176 and 177 to connector pins 186 and 187 which project downwardly through a hole 166 in the lower magnet structure. Similarly, the two capacitor terminals 173 and 174 are electrically connected by means of flexible leads 178 and 179 to connector pins 188 and 189 which project downwardlythrough a hole 167 in the lower magnet structure. The four connector pins are mounted in rigid insulating bushings within the holes 166 and 177, thus being mutually insulated from each other and from the magnet structures 30a and 30b. This facilitates connecting them to an external electrical circuit by means of suitable leads.
+
+The support ring 140, the flapper 110, and the posts 142a and l42b constitute a unitary structure, being formed in part by etching a single fused quartz disc and in part by deposition of gold coatings thereon. The annular space 112 and the hole 141 may be formed partly by drilling and cutting and partly by etching. It is particularly advantageous to employ fused quartz in this structure since it is amorphous and isotropic and its various mechanical properties, such as its Youngs modulus, its elastic limit, and its thermal coefficient of expansion are not affected by the etching process.
+
+The posts 142a and 142b may be formed by masking the areas where the posts are to be located and then etching the plate to reduce its thickness elsewhere. For example, starting with a plate having a thickness of about 0.030 in., the thickness of the plate, except for the posts, may be reduced to a thickness of about 0.028 in., thus forming posts having a height of about 0.001 in. or less on opposite sides of the plate.
+
+The flexure may then be formed by masking the quartz disc everywhere but at the position of the flexure, and acid etching the disc in the areas where the flexure is to be formed.
+
+Then the plate is masked again, leaving the end surfaces of the posts exposed and also leaving exposed the areas of the plate where terminals 171, 172, 173, and 174 are to be formed and where the electrodes 144a and 144b and the leads 181, 182, 183, and 184 are to be formed. The coatings forming the terminals, the capacitor plates, and the conductor strips are deposited by evaporation. They are very thin, having a thickness much less than that of the height of the posts. In this process, thin discs of gold are also deposited on the outer ends of the posts.
+
+In all cases, where gold is deposited a thin foundation layer of chromium is deposited first to assure establishing a strong bond of the gold to the quartz.
+
+The flexible leads are then applied, the coils mounted, and the electrical connections made to the coils.
+
+The plates 32a and 32b, the pole pieces 34a and 34b, and the proof-mass structure are axially aligned and pressed together with a force of about 1,000 grams while the tabs 200 and the strips 202 are applied. The upper and lower magnet structures 30a and 30b are then assembled and firmly secured together by means of thin steel tabs 200 cemented thereto with conductive cement and by means of thin gold strips 202. An auxiliary connector 185 is welded to the wall of the hole 166 in the lower magnet structure to provide an electrical excitation connector.
+
+The accelerometer unit so formed is then firmly mounted within the housing 20 with the connectors 185, 186, 187, 188, and 189 projecting outwardly through an opening 204 at the base of the housing. In assembling the unit, glue is applied on the outer and inner surfaces of an insulating spacer ring 206 on the accelerometer unit and the various parts pressed together. An annular space 208 formed beneath the lower end of the spacer ring is then filled with epoxy. The housing 20 is then filled with dry nitrogenthrough a suitable opening 210 which is then sealed with epoxy. The housing 20 is provided with a .collar or outwardly extending flange 212 to facilitate securing the accelerometer to an object undergoing test.
+
+In a specific embodiment of the invention, the accelerometer housing had an outside diameter of a little more than 1 inch. The outside diameter of the accelerometer unit 10 was 0.85 in. The etched plate had a final thickness of about 0.028 in. The posts had heights of about 0.00075 in. The gold coatings had a thickness of about 2,000A or about 8 pin.
+
+The spring constant of the flexure was about 1 radian per g. The total mass of the flapper and coils, which form a proof-mass, was about 1 gram. The resonant frequency of the proof-mass and flexure, when not connected to an electrical circuit, was about 0.1 cps and was about 1,200 cps when electrically connected. The resonant frequency when so connected may be made quite high by methods well known in the art.
+
+The gold surfaces at the outer ends of the posts 142a and 142b, because of their malleability, provided a firm fit between the posts and the inner surfaces 40a and 40b of the magnet structures. The use of malleable materials for such contacts prevents warpage, distor-, tion and lack of uniformity of operation that might otherwise arise because of the presence of microscopic irregularities such as burrs in the surface 40a and 40b or even the surfaces on the outer ends of the posts. Such irregularities would otherwise produce stress concentration, which could result in irregular operation especially when the accelerometer is subjected to large accelerations and when subjected to large temperature changes. Other malleable materials may be used such as silver, aluminum, or lead.
+
+The use of posts unitary with the ring makes it unnecessary to employ separate shims. But it will be understood, of course, that the posts could be formed in the surfaces 40a and 40b and the malleable material deposited on the ends of those posts or on the surfaces of the ring 140 opposite such posts. However, the formation of the posts on the quartz member has the advantage of simplicity of manufacture.
+
+The close spacing between the surface of the flapper and the adjacent surfaces, that is, the capacitor gaps, of
+
+The precise symmetry of the two capacitor gaps results in almost equal air damping on both sides of the flapper. As a result, a static displacement of the flapper from its neutral position because of oscillation of the flapper caused by alternating acceleration, is rendered negligible. In the absence of such symmetry, oscillation of the flapper would result in unequal aerodynamic forces being applied to the flapper on opposite sides thereof, thereby producing a static deflectionof the damper. Such symmetry in the air damping on the two sides of the flapper is attained by virtue of the .symmetry of the gaps. This symmetry is made possible by virtue of the unitary construction described.
+
+A schematic diagram of an electrical system utilizing the accelerometer of this invention is illustrated in FIG. 5. Since the two surfaces 40a and 40b are connected to a common terminal 30, they are electrically depicted in FIG. as one capacitor plate 40 common to both capacitors CA and CB and the movable capacitor plates formed by electrodes 144a and 144b are represented as plates located on opposite sides of a common plate 40 and spaced therefrom.
+
+The two capacitors CA and CB are connected to the opposite sides of a balanced amplifier BA. Alternating current from a reference oscillator R0 is applied through terminal 30 and ground G to the capacitor CA and CB. When the accelerometer is subjected to acceleration the capacitance of one capacitor increases and the capacitance in the other capacitor decreases. As a result a signal occurs at the output of the balanced amplifier BA whichhas an amplitude and phase corresponding to that'of the acceleration. This signal is of the suppressed-carrier type. Theoutput of the balanced amplifier and the alternating current signal from the reference oscillator are fed to aring demodulator RD, thereby producing at the output of the demodulator an alternating current which varies in amplitude and phase in the same manner as the acceleration. This demodulated signal is fed through a phase shifter PS and an output amplifier 0A through the coils 160a and 160b and through a load resistor R.'A current flowing through the coils 160a and 16% produces alternating magnetic fields which interact with the magnetic field supplied by the magnetic structures 30a and 30b to produce a force on the flapper which counteracts the tendency of the values of capacitance of the two capacitors CA and CB to change value. The signal voltage developed across the resistor R represents the acceleration in amplitude, frequency, and phase. The varying voltage developed acrossthe resistor R varies in proportion to the acceleration. The phase shifter introduces a phase shift that varies with frequency over a range from 0 cps uptoa frequency such as 1,200 cps to assure stable servo operation over a wide frequency range that includes the foregoing range. The phase shifter thus compensates for the phase versus frequency characteristics of the accelerometer, the amplifiers and other elements of the circuits. In the servo art such a phase shifter is sometimes known as a compensator. Electrical signals corresponding to components of acceleration outside the latter frequency range may be alternated by suitable filters in the servo system to prevent oscillation at high frequencies, as is well known in the art.
+
+In order to minimize spurious signals that might otherwise arise from vibration of leads connecting the capacitors CA and CB to the amplifier BA, the amplifier is rigidly mounted within the housing at the lower end of the accelerometer unit 10 and the leads to the amplifier BA are formed of rigid metallic conductors. If desired, the ring demodulator RD, the phase shifter PS, the output amplifier 0A, the resistor R, and the reference oscillator R0 are also mounted with the housing.
+
+It will be. understood that the flapper of this invention may be employed in other ways, and that the flapper and the accelerometer may be constructed in other ways. In particular, it will also be understood that the various parts of the flapper may be arranged in other configurations and may be employed in other types of accelerometers such as accelerometers in which the stator members are non-magnetic. It is therefore to be understood that the invention is not limited to the specific device described but may be embodied in many other forms and may be employed in many other ways within the scope of the appended claims.
+
+Other types of materials .may be employed in the construction of an accelerometer in accordance with this invention. Likewise, different configurations of the elements and positioning of the posts may be employed. It is, therefore, to be understood that the invention is not limited to the specific device disclosed but may be embodied in many other forms within the scope of the appended claims.
+
+The invention claimed is:
+
+1. An accelerometer for detecting the acceleration of an object to which it is attached, comprising:
+
+a stator structure having first and second stator members with opposed surfaces aligned along the sensitive axis of the accelerometer;
+
+an annular support member between the opposed surfaces of the stator structure and extending around said axis;
+
+at least three spacer means between the support member and each of the opposed surfaces of the stator structure, one of said spacer means lying on the opposite side of the center of said support member from at least two other of said spacer means, the free angular spacing between said spacer means, about the center of said support member, being larger than the sum of the angular widths of said spacer means about said center;
+
+a flapper flexurally suspended from and inside the annular support member, between said opposed stator surfaces, for movement in response to ac,- celeration along said axis; and
+
+a pair of capacitors, each capacitor having one plate on the flapper and another plate on the facing surface of the adjacent stator member.
+
+2. The accelerometer of claim 1 in which said spacer means are posts extending axially of the accelerometer from said support member, each post having a contact face coated with malleable metalin engagement with the opposed surfaces of the stator members.
+
+3. The accelerometer of claim 1 having a support member with two surfaces, and three spacer means on each surface of said support member, equally spaced around the support member, the spacer means on opposite surfaces of the support member being aligned.
+
+4. The accelerometer of claim 1 in which said spacer means are posts having an angular width about the center of said support member of at least 5 and less than 5. The accelerometer of claim 1 in which said annular support member, flapper and spacer means are uni- 1 tary.
+
+6. The accelerometer of claim 5 in which said unitary 0 member.
+
+
+
+
+
+
+
+
+
+
+Title: Vortex generator for airfoil structures
+Inventor: William R Haney Jr
+Description: A vortex generator for the ends of airfoil structures that directs air on the high-pressure side of the structure into a vortex generator chamber and discharges the swirling air at the trailing edge of the structure. The exit orifice of the vortex generator may be directed at fixed or variable attitudes for causing the vortex created by the generator to either increase or decrease lift provided by the airfoil structure.
+
+BACKGROUND OF THE INVENTION Due to the well-known shaping of aircraft wings with the upper surface having a longer surface than the lower surface, air passing over the wing travels faster than the air passing below the wing, thereby lowering the air pressure above the wing compared to the pressure below the wing and creating lift. At the wing tip some of the higher pressure air on the underneath side spills sideward off the end of the wing and up over the top side. This spilled air effectively pushes down on the wing to reduce the lift and it also produces a trailing vortex that produces drag upon the wing. Thus with conventional aircraft wings a significant amount of propulsion power is wasted in overcoming the drag of such vortices and the additional drag resulting from the higher angle of attack of'the wings required to compensate for reduced lift. A similar condition occurs with other airfoil structures such as ailerons.
+
+SUMMARY OF THE INVENTION This invention substantially eliminates sideward spilling of air from the high-pressure side of an airfoil structure at its tip or end to the low-pressure side by gathering the high-pressure air that would otherwise spill over the tip and directing it into a vortex chamber that swirls the air and discharges it from the trailing edge of the structure. As the swirling air leaves the vortex chamber it entrains other air adjacent the end of the structure that would otherwise form a turbulent drag producing pattern and directs it into the more efficient or less drag producing full span vortex pattern of the air discharged from the vortex generator. The generator may be provided with means of various types, such as a tangential opening. spiral vanes, etc., for producing the swirling action and also with a tube to produce ram air pressure within the generator for increasing the effectiveness of the latter.
+
+In some forms of the invention the discharge orifice of the generator may be so located that its axis is substantially in the line of flight so that the vortex produced thereby increases lift and reduces drag over conventional wing tip structures.
+
+In other forms the discharge orifice either may be directed outwardly from the aircraft fuselage so as to further increase the vortex span or may be directed inwardly of the fuselage to reduce the vortex span.
+
+In other forms of the invention the discharge orifice of the generator may be gimbal mounted for selective variable positioning while the aircraft is in flight.
+
+DESCRIPTION FIG. 1 is a rear view of part of a conventional aircraft wing showing how high-pressure air from underneath the wing rolls over the wing tip to the low-pressure area above the wing.
+
+FIG. 2 is a perspective view of a wing portion having a vortex generator of the present invention at the wing tip and also on an aileron.
+
+FIG. 3 is an end view of a wing and one form of vortex generator.
+
+FIG. 4 is a broken plan view of an aircraft showing the vortex generator of FIG. 3.
+
+FIG. 5 is a rear view of the wing tip and the vortex generator of FIG. 3.
+
+FIG. 6 is a section view on lines 66 of FIG. 4.
+
+FIG. 7 and 8 are top part sectional views of other forms of vortex generators, and
+
+FIG. 9 is a fragmentary part sectional view of still another form.
+
+The vortex generator 9 shown in FIGS. 1-6 includes a housing 10 that has a generally cylindrical chamber 11 closed at its front end and has a discharge orifice 12 at its rear. If projects below the bottom of wing 13 and has a longitudinal substantially tangential slot or opening 14 along the lower surface of the wing. Slot 14 may extend nearly across the width of the wing tip, or it may be located toward the leading edge.
+
+As air passes over and under wing 13, the higher pressure air on the bottom side near the wing tip moves sideward toward the wing tip edge, as shown by the dotted arrows 17 in FIG. 4, but instead of rolling around the wing tip to the lowpressure upper side, as would be the case with a conventional wing I3 as shown in FIG. 1, it enters vortex generator chamber 11 via slot 14 in a direction generally tangential to the chamber wall. This causes the air to rotate or swirl within the chamber as indicated by the arrows in FIG. 6. Rotational velocity is retained by the air as it is expelled from orifice 12 so as to result in a trailing vortex 18, as shown in FIG. 2, of controlled pattern that imposes less drag to the aircraft than the random turbulence and vortex patterns created by conventional wing tips. The trailing vortex entrains other air leaving the wing from its upper and lower surfaces near the wing tip that would otherwise create turbulence and drag to further reduce these effects. By gathering higher pressure air that would otherwise roll over the wing tip edge to the lower pressure upper side, the vortex generator also eliminates the corresponding reduction in lift.
+
+To increase the swirling action of the air as it discharges from orifice 12, the latter may be fitted with angularly oriented swirler vanes or fins 16, as shown in FIGS. 4 and 5.
+
+FIG. 7 shows the use of a ram air tube 25 centrally located at the forward end of generator 9. The tube has a flared opening 26 to atmosphere at its forward end and its rear end is open at 27 to the interior of the generator. Air passing through tube 25 increases the mass and velocity of the air ejecting from the generator and forming the trailing vortex and causes a more precise and efficient vortex pattern to be formed. If desired, tube 25 may be fitted with a swirler 28.
+
+FIG. 8 illustrates the use of spiral vanes or baffles 21 within chamber 11 as an alternate method of increasing swirling of the air within the generator and for directing it to the discharge orifice for expulsion as a controlled vortex. In this arrangement opening 22 is in the same relative location below the wing 13 as in FIG. 6 except that it is confined to the forward portion of the wing tip.
+
+In FIGS. 2 through 6 the vortex generators 9 are so mounted that the axis 30 of each discharge orifice 13 is substantially parallel with the line of flight (arrow 31) and the longitudinal axis 32 of the fuselage 33 when viewed from the top, as in FIG. 4. When viewed from the side, as in FIG. 3, the axis 30 has the same angle of incidence with the fuselage 33 as does the wing 13.
+
+In some applications it may be desirable to make further in crease in the lift provided by the wing, as for lowering the stall speed of the aircraft, by mounting the generator so that its discharge orifice axis 30 is directed away from (divergent to) the fuselage axis 32 (or the line of flight 31) when progressing from the front of the aircraft to the rear as the wing is viewed from the top as in FIG. 7. This increases the effective vortex span of the wing to further increase the lift but also results in a greater induced angle of attack and hence somewhat greater drag.
+
+In other applications where lowerdrag at high speed is desired, the generator may be mounted so that its orifice axis 30 is directed toward (convergent to) the fuselage axis (or line of flight 31) as viewed in FIG. 8. This results in a reduction of the induced angle of attack and hence a reduction in lift.
+
+In the modification illustrated in FIG. 9 the discharge orifice I I2 is formed in a gimbal-mounted member 41 that is capable of universal movement. Thus member 41 has pins 42 on its upper and lower sides that are rotatably journaled in a gimbal ring 43. The latter has pins 44 on its left and right sides journaled in generator housing 10. Suitable devices not shown, may beattached to the pins 42, 44, or to the member 41 and ring 43, for rotating the same as desired while the aircraft is in flight so as to selectively place the discharge orifice axis 30 in either of the directions illustrated in FIGS. 2 through 8. In ad' dition the parts may be rotated so that axis 30 may be directed downwardly or upwardly, or in any combination of vertical and lateral directions.
+
+When axis 30 in FIG. 9 is directed downwardly it increases effectively lift and when directed upwardly reduces effective lift. When directed outwardly or inwardly effective lift is respectively increased or decreased, as in the manner of H68. 7 and 8.
+
+In a further modification, any of the forms of the invention disclosed herein may be fitted with a valve to vary the flow of air through the discharge orifice. For example, in FIG. 8 there is shown a butterfly valve 50 whose position may be varied by means of a handle 51 and a control rod 52 for selectively varying the size of the discharge orifice 12 to thus control the effectivity of the vortex created by the generator. Likewise, a valve 50 may be placed within ram tube 25 in the FIG. 7 form, as illustrated.
+
+In a still further modification, any of the forms of the invention disclosed herein may have installed within the corresponding housing a gas turbine or other compressor, as illustrated at 56 in FIG. 4, with its discharge end 57 facing the rear of housing 10 and having a throttle control rod 58 suitably mounted for manual or automatic manipulation or control.
+
+As shown in FIG. 1, vortex generators according to this invention may also be applied to parts of aircraft other than the wing tip, as for example, a generator 61 may be applied to the sides or edges of an aileron 62.
+
+I claim:
+
+1. in combination with an airfoil structure comprising a body having opposed first and second surfaces with front, rear and tip edges and shaped so that when exposed to an airstream having an initial direction generally from said front to rear edges and passing over both surfaces a higher air pressure is produced against the first surface than against the second, a housing at the tip edge defining a chamber, said housing having a discharge orifice facing generally rearwardly, and a first opening in said chamber exposed to said first surface to receive high-pressure air therefrom whereby air entering said chamber at said first opening is expelled through said discharge orifice.
+
+2. The combination of claim 1 in which said chamber is generally cylindrical with its longitudinal axis extending generally in the direction of said airstream.
+
+3. The combination of claim 1 in which the chamber has a second opening facing frontwardly so as to receive air approaching from said initial direction to develop a ram pressure within the chamber.
+
+4. The combination of claim 1 in which there is a means to impart swirling motion to air passing through said chamber to said discharge orifice.
+
+5. The combination of claim 4 in which said means comprises a spirally shaped deflector within the chamber.
+
+6. The combination of claim 4 in which said means is at said discharge orifice.
+
+7. The combination of claim 4 in which said means is a tangential positioning of the first opening to the chamber.
+
+8. The combination of claim 1 inwhich said chamber is of gradually reducing diameter toward said discharge orifice for a greater part of its length.
+
+9. The combination of claim 1 in which said first opening faces in a direction generally transverse to said initial direction of said airstream.
+
+10. The combination of claim 1 in which said chamber projects beyond the first surface in a direction normal to the latter and away from the second surface, and said first opening is in said projection.
+
+11. The combination of claim 3 in which the second opening opens to a tube extending longitudinally within the chamber.
+
+12. The combination of claim 1 in which the axis of the discharge orifice is generally parallel with said initial direction of airflow when viewed in a direction from the second surface toward the first surface.
+
+13. The combination of claim 1 in which the axis of the dischar e orifice is at an angle with said initial direction of airflow w en viewed ll'l a dlrection from the second surface toward the first surface.
+
+14. The combination of claim 1 in which there is a means for selectively varying the angle of the axis of the discharge orifice relative to the longitudinal axis of the chamber.
+
+15. The combination of claim 1 in which there is a means for varying the size of the discharge orifice.
+
+16. The combination of claim 1 in which there is a compressor within the chamber operable to discharge air under pressure toward said discharge orifice.
+
+17. A vortex generator for an aircraft structure comprising a generally cylindrical housing forming a chamber with a discharge orifice at one end and an elongated lateral opening in its sidewall extending generally axially along the housing for admitting air to the chamber.
+
+18. The generator of claim 17 in which the chamber contains a means for causing air to discharge from said orifice with a swirling motion.
+
+19. The generator of claim 17 in which the chamber contains means for selectively varying the discharge orifice openmg.
+
+20. The generator of claim 17 in which the chamber contains means for varying the angle of the discharge orifice axis relative to the axis of the chamber.
+
+21. The generator of claim 17 in which the chamber contains a means for increasing the velocity of air discharged from said orifice.
+
+22. The generator of claim 17 in which the lateral opening communicates with the exterior of the housing at said cylindrical wall.
+
+23. The generator of claim 22 in which the cylindrical wall is devoid of projections at said lateral opening.

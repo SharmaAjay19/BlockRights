@@ -41,8 +41,20 @@ def fetch_posts():
         posts = sorted(content, key=lambda k: k['timestamp'],
                        reverse=True)
 
+def fetch_chain():
+    """
+    Function to fetch the chain from a blockchain node
+    """
+    get_chain_address = "{}/chain".format(CONNECTED_NODE_ADDRESS)
+    response = requests.get(get_chain_address)
+    if response.status_code == 200:
+      chain = json.loads(response.content.decode('utf-8'))
+      return chain["chain"]
+    else:
+      return None
 
 @app.route('/')
+@app.route('/index')
 def index():
     #get_peers()
     fetch_posts()
@@ -52,6 +64,14 @@ def index():
                            node_address=CONNECTED_NODE_ADDRESS,
                            readable_time=timestamp_to_string)
 
+@app.route('/visualize')
+def visualize():
+    #get_peers()
+    chain = fetch_chain()
+    return render_template('visualization.html',
+                           title='BlockRights: Patent on Blocks',
+                           node_address=CONNECTED_NODE_ADDRESS,
+                           blockchain=chain)
 
 @app.route('/submit', methods=['POST'])
 def submit_textarea():
@@ -59,12 +79,16 @@ def submit_textarea():
     Endpoint to create a new transaction via our application.
     """
     post_content = request.form["content"]
-    author = request.form["author"]
+    inventors = request.form["inventors"]
+    privacy = request.form["privacy"]
+    title = request.form["title"]
 
     post_object = {
-        'author': author,
+        'inventors': inventors,
         'content': post_content,
-        'post_id': str(uuid.uuid4())
+        'post_id': str(uuid.uuid4()),
+        'privacy': privacy,
+        'title': title
     }
 
     # Submit a transaction

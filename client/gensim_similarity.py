@@ -31,8 +31,8 @@ def processCorpus(alldocuments):
 	dictionary = prepareDictionary(alldocuments)
 	corpus = [dictionary.doc2bow(nltk.word_tokenize(document.lower())) for document in alldocuments]
 	corpora.MmCorpus.serialize('Corpus.mm', corpus)
-	model = models.ldamodel.LdaModel(corpus)
-	#model = models.LsiModel(corpus, id2word=dictionary)
+	#model = models.ldamodel.LdaModel(corpus)
+	model = models.LsiModel(corpus, id2word=dictionary)
 	index = similarities.docsim.MatrixSimilarity(model[corpus])
 	return (model, index, dictionary)
 

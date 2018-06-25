@@ -11,9 +11,34 @@
       }
     </script>
   </head>
-  <body>
+  <body bgcolor="#87cefa">
+    <div style="display:block">
+      <div style="display:inline;">
+        <svg width="20" height="20">
+          <rect width="20" height="20" style="fill:#f65314;stroke-width:0;stroke:rgb(0,0,0)" />
+        </svg>
+      </div>
+      <div style="display:inline;">
+        <svg width="20" height="20">
+          <rect width="20" height="20" style="fill:#7cbb00;stroke-width:0;stroke:rgb(0,0,0)" />
+        </svg>
+      </div>
+    </div>
+    <div style="display:block">
+      <div style="display:inline;">
+        <svg width="20" height="20">
+          <rect width="20" height="20" style="fill:#00a1f1;stroke-width:0;stroke:rgb(0,0,0)" />
+        </svg>
+      </div>
+      <div style="display:inline;">
+        <svg width="20" height="20">
+          <rect width="20" height="20" style="fill:#ffbb00;stroke-width:0;stroke:rgb(0,0,0)" />
+        </svg>
+      </div>
+    </div>
     <div><a href="/index">Home</a></div>
-    <center><h1>{{ title }}</h1></center>
+    <div><a href="https://microsoft.sharepoint.com/sites/LCAWeb/Home/Copyrights-Trademarks-and-Patents/Patents/Patent-FAQ" target="_blank">FAQs</a></div>
+    <center><font color="#483d8b"><h1>{{ title }}</h1></font></center>
     <hr>
     {% with messages = get_flashed_messages() %}
     {% if messages %}

@@ -1,0 +1,51 @@
+<html>
+<head>
+<title>
+</title>
+</head>
+<script type="text/javascript">
+function toggleBlock(block_index){
+	var elem = document.getElementById("block-" + block_index);
+	if (elem) {
+		if (elem.style.display == "inline"){
+			elem.style.display = "none";
+		}
+		else {
+			elem.style.display = "inline";
+		}
+	}
+}
+</script>
+<body>
+<div>
+{% for block in blockchain %}
+	<div style="display:block;">
+		<svg width="50" height="50" style="display:inline;" onclick="toggleBlock('{{block.index}}');">
+        	<g>
+    			<rect x="0" y="0" width="50" height="50" fill="blue"></rect>
+    			<text x="18" y="33" font-family="Verdana" font-size="25" fill="white">{{block.index}}</text>
+  			</g>
+        </svg>
+        <div id="block-{{block.index}}" style="display:none;">
+        {% for trans in block.transactions %}
+        	<svg width="50" height="50" style="display:inline;">
+        		<line x1="0" y1="25" x2="50" y2="25" stroke="black" />
+        	</svg>
+        	<svg width="50" height="50" style="display:inline;">
+        	<g>
+    			<rect x="0" y="0" width="50" height="50" fill="red"></rect>
+    			<text x="25" y="25" font-family="Verdana" font-size="24" fill="blue">{{trans.title}}</text>
+  			</g>
+        </svg>
+        {% endfor %}
+        </div>
+	</div>
+	<div style="display:block;">
+		<svg width="50" height="50">
+        	<line x1="25" y1="0" x2="25" y2="50" stroke="black" />
+        </svg>
+	</div>
+{% endfor %}
+<div>
+</body>
+</html>

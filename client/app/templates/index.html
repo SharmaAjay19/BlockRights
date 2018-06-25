@@ -6,10 +6,18 @@
 
 	<center>
 	<form action="/submit" id="textform" method="post">
-	    <textarea name="content" rows="4" cols="50" placeholder="Please add your content here..."></textarea>
+		<table>
 	    <br>
-	    <input type="text" name="author" placeholder="Your name">
-	    <input type="submit" value="Post">
+	    <tr><td>Title:</td><td><textarea name="title" rows="1" cols="100" placeholder="Title of idea.."></textarea></td></tr>
+	    <br>
+	    <tr><td>Description:</td><td><textarea name="content" rows="8" cols="100" placeholder="Please add a description of your idea.."></textarea></td></tr>
+	    <br>
+	    <tr><td><input type="radio" name="privacy" value="public" checked>Public</td>
+	    <td><input type="radio" name="privacy" value="private">Private</td></tr>
+	    <br>
+	    <tr><td>Inventors:</td><td><textarea name="inventors" rows="1" cols="80" placeholder="John Doe, Jane Doe.."></textarea></td>
+	    <tr><td><input type="submit" value="Post"></td></tr>
+		</table>
 	</form>
 	</center>
 
@@ -17,6 +25,7 @@
 
 	<a href="{{node_address}}/mine" target="_blank"><button>Request to mine</button></a>
 	<a href="/"><button>Resync</button></a>
+	<a href="/visualize" target="_blank"><button>Visualize</button></a>
 
 	<div style="margin: 20px;">
 
@@ -28,13 +37,17 @@
 	      {% else %}
 	      <div class="post_box-options"><button class="option-btn">Original</button></div>
 	      {% endif %}
-	      <div style="background: rgb(0, 97, 146) none repeat scroll 0% 0%; box-shadow: rgb(0, 97, 146) 0px 0px 0px 2px;" class="post_box-avatar">{{post.author[0]}}</div>
-	      <div class="name-header">{{post.author}}</div>
+	      <div style="background: rgb(0, 97, 146) none repeat scroll 0% 0%; box-shadow: rgb(0, 97, 146) 0px 0px 0px 2px;" class="post_box-avatar">{{post.title[0]}}</div>
+	      <div class="name-header">{{post.inventors}} - {{post.title}}</div>
 	      <div class="post_box-subtitle">Posted at<i>{{readable_time(post.timestamp)}}</i></div>
 	   </div>
 	   <div>
 	      <div class="post_box-body">
+	      	{% if post.privacy=='public' %}
 	         <p>{{post.content}}</p>
+	      	{% else %}
+	      	 <p>The inventor has chosen to keep their idea private.</p>
+	      	{% endif %}
 	      </div>
 	   </div>
 	</div>
