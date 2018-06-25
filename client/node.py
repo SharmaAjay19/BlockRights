@@ -88,17 +88,18 @@ class Blockchain:
         previous_hash = "0"
 
         for block in chain:
-            block_hash = block.hash
+            #block = Block(block["index"], block["transactions"], block["timestamp"], block["previous_hash"])
+            block_hash = block["hash"]
             # remove the hash field to recompute the hash again
             # using `compute_hash` method.
-            delattr(block, "hash")
+            del block["hash"]
 
-            if not cls.is_valid_proof(block, block.hash) or \
-                    previous_hash != block.previous_hash:
+            if not cls.is_valid_proof(block, block_hash) or \
+                    previous_hash != block["previous_hash"]:
                 result = False
                 break
 
-            block.hash, previous_hash = block_hash, block_hash
+            block["hash"], previous_hash = block_hash, block_hash
 
         return result
 
@@ -255,4 +256,4 @@ def announce_new_block(block):
     except Exception as e:
         a = 1
 
-app.run(debug=True, port=8000)
+app.run(host="0.0.0.0", port=8000)

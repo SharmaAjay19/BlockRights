@@ -15,12 +15,11 @@ posts = []
 def get_peers():
     response = requests.get("http://13.66.39.222:9000/get_peers")
     nodes = response.json()
-    nodelist = ["http://" + node + ":8000" for node in nodes if node]
+    nodelist = [node + ":8000" for node in nodes if node]
     add_node_address = "{}/add_nodes".format(CONNECTED_NODE_ADDRESS)
     requests.post(add_node_address,
                   json=nodelist,
                   headers={'Content-type': 'application/json'})
-#get_peers()
 
 def fetch_posts():
     """
@@ -31,7 +30,7 @@ def fetch_posts():
     response = requests.get(get_chain_address)
     if response.status_code == 200:
         content = []
-        chain = json.loads(response.content)
+        chain = json.loads(response.content.decode('utf-8'))
         for block in chain["chain"]:
             for tx in block["transactions"]:
                 tx["index"] = block["index"]
@@ -45,6 +44,7 @@ def fetch_posts():
 
 @app.route('/')
 def index():
+    get_peers()
     fetch_posts()
     return render_template('index.html',
                            title='BlockRights: Patent on Blocks',
