@@ -44,7 +44,7 @@ def fetch_posts():
 
 @app.route('/')
 def index():
-    get_peers()
+    #get_peers()
     fetch_posts()
     return render_template('index.html',
                            title='BlockRights: Patent on Blocks',
