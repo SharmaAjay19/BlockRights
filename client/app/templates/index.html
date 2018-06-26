@@ -23,7 +23,7 @@
 
 	<br>
 
-	<a href="{{node_address}}/mine" target="_blank"><button>Mine a Block</button></a>
+	<a href="{{node_address}}/mine" target="_blank"><button>Patent on Blockchain</button></a>
 	<a href="/"><button>Refresh</button></a>
 	<a href="/visualize" target="_blank"><button>Visualize</button></a>
 
@@ -33,7 +33,7 @@
     <div class="post_box" id="{{post.post_id}}">
 	   <div class="post_box-header">
 	   	  {% if post.parent_post %}
-	      <div class="post_box-options"><button class="option-btn" onclick="focusOnPost('{{post.parent_post}}');">Parent</button></div>
+	      <div class="post_box-options"><button class="option-btn" onclick="focusOnPost('{{post.parent_post}}');">Related Patent</button></div>
 	      {% else %}
 	      <div class="post_box-options"><button class="option-btn">Original</button></div>
 	      {% endif %}

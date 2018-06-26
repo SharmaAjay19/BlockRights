@@ -153,6 +153,7 @@ def new_transaction():
     blockchain.add_new_transaction(tx_data)
 
     return "Success", 201
+    #return json.dumps({"transaction": blockchain.transactions[-1]}), 201
 
 
 # endpoint to return the node's copy of the chain.
