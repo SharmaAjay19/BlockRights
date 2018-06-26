@@ -6,9 +6,10 @@ from flask import render_template, redirect, request
 
 from app import app
 
+vm_config = json.loads(open("../config.txt", "r").read())
 # The node with which our application interacts, there can be multiple
 # such nodes as well.
-CONNECTED_NODE_ADDRESS = "http://127.0.0.1:8000"
+CONNECTED_NODE_ADDRESS = "http://" + vm_config["self_ip"] + ":8000"
 
 posts = []
 
@@ -56,7 +57,7 @@ def fetch_chain():
 @app.route('/')
 @app.route('/index')
 def index():
-    #get_peers()
+    get_peers()
     fetch_posts()
     return render_template('index.html',
                            title='BlockRights: Patent on Blocks',
