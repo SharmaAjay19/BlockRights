@@ -15,6 +15,20 @@ function toggleBlock(block_index){
 		}
 	}
 }
+
+function showDate(timestamp, id){
+    var date = new Date(timestamp*1000);
+    // Hours part from the timestamp
+    var hours = date.getHours();
+    // Minutes part from the timestamp
+    var minutes = "0" + date.getMinutes();
+    // Seconds part from the timestamp
+    var seconds = "0" + date.getSeconds();
+
+    // Will display time in 10:30:23 format
+    var formattedTime = hours + ':' + minutes.substr(-2) + ':' + seconds.substr(-2);
+    document.getElementById(id).setAttribute("title", "Created:" + formattedTime);
+}
 </script>
 <body>
 <div>
@@ -31,8 +45,8 @@ function toggleBlock(block_index){
         	<svg width="50" height="50" style="display:inline;">
         		<line x1="0" y1="25" x2="50" y2="25" stroke="black" />
         	</svg>
-            <div style="display:inline;">
-                <textarea name="block-{{trans.post_id}}" rows="2" cols="20" readonly>{{trans.title}}--{{trans.inventors}}</textarea>
+            <div style="display:inline;" id="block-{{trans.post_id}}">
+                <textarea name="block-{{trans.post_id}}" rows="2" cols="20" onmouseover="showDate({{trans.timestamp}}, 'block-{{trans.post_id}}')" readonly>{{trans.title}}--{{trans.inventors}}</textarea>
             </div>
         	<!--<svg width="50" height="50" style="display:inline;">
         	<g>
