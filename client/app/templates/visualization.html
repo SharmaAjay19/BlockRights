@@ -31,12 +31,15 @@ function toggleBlock(block_index){
         	<svg width="50" height="50" style="display:inline;">
         		<line x1="0" y1="25" x2="50" y2="25" stroke="black" />
         	</svg>
-        	<svg width="50" height="50" style="display:inline;">
+            <div style="display:inline;">
+                <textarea name="block-{{trans.post_id}}" rows="2" cols="20" readonly>{{trans.title}}--{{trans.inventors}}</textarea>
+            </div>
+        	<!--<svg width="50" height="50" style="display:inline;">
         	<g>
     			<rect x="0" y="0" width="50" height="50" fill="red"></rect>
     			<text x="25" y="25" font-family="Verdana" font-size="24" fill="blue">{{trans.title}}</text>
   			</g>
-        </svg>
+            </svg>-->
         {% endfor %}
         </div>
 	</div>
