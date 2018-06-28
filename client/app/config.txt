@@ -1,4 +1,4 @@
 {
  "self_ip" : "104.42.39.226",
- "get_peer_url" : "",
+ "get_peer_url" : "http://104.42.122.134:9000/get_peers",
 }
