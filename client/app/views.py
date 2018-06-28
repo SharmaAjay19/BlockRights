@@ -14,7 +14,7 @@ CONNECTED_NODE_ADDRESS = "http://" + vm_config["self_ip"] + ":8000"
 posts = []
 
 def get_peers():
-    response = requests.get(vm_config["get_peers_url"])
+    response = requests.get(vm_config["get_peer_url"])
     nodes = response.json()
     nodelist = [node + ":8000" for node in nodes if node]
     add_node_address = "{}/add_nodes".format(CONNECTED_NODE_ADDRESS)
