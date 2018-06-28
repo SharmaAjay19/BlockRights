@@ -6,7 +6,7 @@ from flask import render_template, redirect, request
 
 from app import app
 
-vm_config = json.loads(open("../config.txt", "r").read())
+vm_config = json.loads(open("config.txt", "r").read())
 # The node with which our application interacts, there can be multiple
 # such nodes as well.
 CONNECTED_NODE_ADDRESS = "http://" + vm_config["self_ip"] + ":8000"
